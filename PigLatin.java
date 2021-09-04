@@ -1,6 +1,6 @@
 import java.util.Scanner; // Import the scanner class
 
-public class Main {
+public class PigLatin {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
